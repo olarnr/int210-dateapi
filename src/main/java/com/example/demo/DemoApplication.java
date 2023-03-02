@@ -23,7 +23,6 @@ public class DemoApplication {
     
     @GetMapping("/api/date")
     @ResponseBody
-    @CrossOrigin
     public String date() {
 	    return  new DateResponse().toString();
     }
