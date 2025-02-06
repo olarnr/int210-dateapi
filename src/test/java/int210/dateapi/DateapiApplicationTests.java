@@ -1,10 +1,10 @@
-package com.example.demo;
+package int210.dateapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class DateapiApplicationTests {
 
 	@Test
 	void contextLoads() {
